@@ -1,0 +1,12 @@
+Link- https://rextester.com/BWB83811
+
+CREATE SEQUENCE Sequence1
+ AS INT
+ START WITH 10
+ INCREMENT BY -1
+
+SELECT NEXT VALUE for Sequence1
+SELECT NEXT VALUE for Sequence1
+SELECT NEXT VALUE for Sequence1
+SELECT NEXT VALUE for Sequence1
+SELECT NEXT VALUE for Sequence1
